@@ -1,2 +1,3 @@
 # GABI-24
-BOT
+
+Your personal bot investor.
